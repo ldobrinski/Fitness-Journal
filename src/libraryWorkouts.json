@@ -1,0 +1,44 @@
+[
+  {
+    "category": "tabata",
+
+    "workouts": [
+      "shoulder taps",
+      "in and outs",
+      "standing abductions",
+      "reverse plank marches",
+      "forearm plank jacks",
+      "plank rotation pushups"
+    ]
+  },
+  {
+    "category": "amrap",
+    "workouts": [
+      {
+        "duration": 12,
+        "exercises": [
+
+        ]
+      },
+      {
+        "duration": 24,
+        "exercises": [
+          
+        ]
+      }
+      
+    ]
+  },
+  {
+    "category": "lucky-seven's", 
+    "workouts": [
+
+    ]
+  },
+  {
+    "category": "ladder",
+    {
+
+    }
+  }
+]
